@@ -1,0 +1,18 @@
+{
+  "unlocked_door": "Porta destrancada",
+  "locked_door": "Porta trancada",
+  "lock_door": "[E] Trancar porta",
+  "unlock_door": "[E] Destrancar porta",
+  "door_lock": "Trava da porta",
+  "passcode": "Senha",
+  "lockpick_broke": "Sua chave de fenda quebrou",
+  "pick_lock": "Arrombar fechadura",
+  "add_lock": "Adicionar trava de porta",
+  "edit_lock": "Editar trava de porta",
+  "remove_lock": "Remover trava de porta",
+  "cannot_unlock": "Não é possível destrancar a porta",
+  "cannot_lock": "Não é possível trancar a porta",
+  "create_modify_lock": "Criar uma trava de porta ou modificar uma existente",
+  "add_door_textui": "**Criar nova porta**  \nInteragir com [LMB]  \nCancelar com [RMB]",
+  "command_closest": "Abrir interface diretamente para a trava de porta mais próxima"
+}
